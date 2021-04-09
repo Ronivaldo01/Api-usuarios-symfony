@@ -1,8 +1,9 @@
 # Api-usuarios-symfony
 <h3>Teste para avaliação de código em Symfony</h3>
-<p>Faça a clonagem do Repositório e baixe as dependencias</p>
+<p>Faça a clonagem do Repositório com o git clone e execute no terminal o composer update para estar baixando as dependencias do projeto </p>
+<p>Utilize o comando Symfony server:start e com o Postman ou Inmsonia faça as requisições dos End-Points, simples demais </p>
 
-<p>Use o comando php bin/console debug:router e veja as rotas dos EndPoints que existem</p>
+<p style="color:blue;">Use o comando php bin/console debug:router e veja as rotas dos EndPoints que existem</p>
 
 
 <hr/>
